@@ -1,0 +1,13 @@
+{
+    "projects": {
+        "async": "git@github.com:cjssdk/async.git",
+        "emitter": "git@github.com:cjssdk/emitter.git",
+        "eslint": "git@github.com:cjssdk/eslint.git",
+        "format": "git@github.com:cjssdk/format.git",
+        "gettext": "git@github.com:cjssdk/gettext.git",
+        "iso-639": "git@github.com:cjssdk/iso-639.git",
+        "property-watcher": "git@github.com:cjssdk/property-watcher.git",
+        "query": "git@github.com:cjssdk/query.git",
+        "runner": "git@github.com:cjssdk/runner.git"
+    }
+}
