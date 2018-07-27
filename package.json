@@ -12,7 +12,7 @@
         "url": "https://github.com/cjssdk/meta.git"
     },
     "dependencies": {
-        "meta-npm": "0.0.28"
+        "meta-npm": "^0.0.28"
     },
     "license": "GPL-3.0"
 }
