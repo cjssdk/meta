@@ -8,6 +8,8 @@
         "iso-639":          "git@github.com:cjssdk/iso-639.git",
         "property-watcher": "git@github.com:cjssdk/property-watcher.git",
         "query":            "git@github.com:cjssdk/query.git",
-        "runner":           "git@github.com:cjssdk/runner.git"
+        "runner":           "git@github.com:cjssdk/runner.git",
+        "uri":              "git@github.com:cjssdk/uri.git",
+        "wamp":             "git@github.com:cjssdk/wamp.git"
     }
 }
