@@ -14,5 +14,13 @@
     "dependencies": {
         "meta-npm": "^0.0.28"
     },
+    "keywords": [
+        "commonjs",
+        "cjs",
+        "sdk",
+        "cjssdk",
+        "framework",
+        "meta"
+    ],
     "license": "GPL-3.0"
 }
