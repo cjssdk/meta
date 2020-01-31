@@ -12,7 +12,8 @@
         "url": "https://github.com/cjssdk/meta.git"
     },
     "dependencies": {
-        "meta-npm": "^1.2.3"
+        "meta": "^2.2.12",
+        "meta-npm": "^1.2.4"
     },
     "keywords": [
         "commonjs",
